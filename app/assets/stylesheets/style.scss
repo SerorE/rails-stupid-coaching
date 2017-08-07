@@ -5,6 +5,8 @@ font-family: 'Raleway', sans-serif;
 
 label {
   opacity: 0.6;
+  font-size: 20px;
+
 }
 
 form {
@@ -14,10 +16,26 @@ form {
     top: 40%;
   left: 40%;
     position: absolute;
+    align-items: center;
+}
+
+#question {
+  text-align:center;
+  border-width: 1px;
+color: rgb(200,200,200);
+      -webkit-border-after-color: black;
+-webkit-border-before-color: black;
+-webkit-border-end-color: black;
+-webkit-border-start-color: black;
 }
 
 .btn {
   width: 100px;
+  margin:10px;
+  font-weight: bolder;
+  color: white;
+    background-color: #303481;
 }
+
 
 
