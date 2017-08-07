@@ -1,0 +1,23 @@
+body {
+text-align: center;
+font-family: 'Raleway', sans-serif;
+}
+
+label {
+  opacity: 0.6;
+}
+
+form {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+    top: 40%;
+  left: 40%;
+    position: absolute;
+}
+
+.btn {
+  width: 100px;
+}
+
+
